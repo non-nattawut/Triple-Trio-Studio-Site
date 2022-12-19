@@ -7,10 +7,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> Triple Trio Studio Test Site </p>
-        <p> Phantom Star Project </p>
-        <p> The Last Knife </p>
-        <p> The Viola Curse </p>
+        <p>Triple Trio Studio Test Site</p>
+        <p>Phantom Star Project</p>
+        <p>The Last Knife</p>
+        <p>The Viola Curse</p>
         <a
           className="App-link"
           href="https://reactjs.org"

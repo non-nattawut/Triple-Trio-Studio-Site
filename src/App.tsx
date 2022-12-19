@@ -9,6 +9,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Triple Trio Studio Test Site
+          Phantom Star Project
+          The Last Knife
+          The Viola Curse
         </p>
         <a
           className="App-link"
